@@ -14,6 +14,6 @@ public class MainActivity extends Activity
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
 		
-		setTitle("456789");
+		setTitle("4567");
     }
 }
